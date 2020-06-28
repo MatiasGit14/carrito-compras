@@ -68,6 +68,7 @@ export default function (state = initialState, action) {
         ),
         productoEliminar: null,
       };
+    case COMENZAR_EDICION_PRODUCTO:
     case OBTENER_PRODUCTO_EDITAR:
       return {
         ...state,

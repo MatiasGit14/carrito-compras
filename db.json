@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "nombre": "Rib Eye 800g",
+      "nombre": "Rib Eye ",
       "precio": "2500",
       "id": 4
     },
@@ -9,6 +9,21 @@
       "nombre": "Jugo de Fresa",
       "precio": "700",
       "id": 5
+    },
+    {
+      "nombre": "tequila",
+      "precio": 600,
+      "id": 6
+    },
+    {
+      "nombre": "Matias Alberto",
+      "precio": 500,
+      "id": 7
+    },
+    {
+      "nombre": "AERR",
+      "precio": 200,
+      "id": 8
     }
   ]
 }
